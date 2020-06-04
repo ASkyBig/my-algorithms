@@ -5,3 +5,4 @@
 - [爬楼梯](https://github.com/ASkyBig/my-algorithms/blob/master/src/dp/%E7%88%AC%E6%A5%BC%E6%A2%AF.md)
 - [不同路径](https://github.com/ASkyBig/my-algorithms/blob/master/src/dp/%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md)
 - [最小路径和](https://github.com/ASkyBig/my-algorithms/blob/master/src/dp/%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)
+- [零钱兑换](https://github.com/ASkyBig/my-algorithms/blob/master/src/dp/%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
