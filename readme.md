@@ -17,7 +17,7 @@
 - [二分查找](https://github.com/ASkyBig/my-algorithms/blob/master/src/%E6%9F%A5%E6%89%BE/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
 
 #### string
--[整形字符串相加](https://github.com/ASkyBig/my-algorithms/blob/master/src/string/%E6%95%B4%E5%BD%A2%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0.md)
+- [整形字符串相加](https://github.com/ASkyBig/my-algorithms/blob/master/src/string/%E6%95%B4%E5%BD%A2%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0.md)
 
 #### 数组
 - [主要元素](https://github.com/ASkyBig/my-algorithms/blob/master/src/%E6%95%B0%E7%BB%84/%E4%B8%BB%E8%A6%81%E5%85%83%E7%B4%A0.md)
