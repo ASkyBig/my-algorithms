@@ -24,3 +24,4 @@
 - [寻找重复数](https://github.com/ASkyBig/my-algorithms/blob/master/src/%E6%95%B0%E7%BB%84/%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0.md)
 - [移动零](https://github.com/ASkyBig/my-algorithms/blob/master/src/%E6%95%B0%E7%BB%84/%E7%A7%BB%E5%8A%A8%E9%9B%B6.md)
 - [两个数组的交集](https://github.com/ASkyBig/my-algorithms/blob/master/src/%E6%95%B0%E7%BB%84/%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.md)
+- [II. 0～n-1 中缺失的数字.md](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
