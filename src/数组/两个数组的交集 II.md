@@ -54,7 +54,7 @@ var intersect = function(nums1, nums2) {
         [nums1, nums2] = [nums2, nums1]
     }
 
-    let [i, j, k] = [0, 0, 0]
+    let [i, j] = [0, 0, 0]
     let res = []
     while( i < nums1.length && j < nums2.length) {
         if (nums1[i] < nums2[j]) {
