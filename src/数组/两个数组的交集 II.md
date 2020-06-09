@@ -70,3 +70,27 @@ var intersect = function(nums1, nums2) {
     return res
 }
 ```
+这里多定义了一个res数组，其实可以优化下，直接利用已经数组来存放结果：
+```
+var intersect = function(nums1, nums2) {
+    nums1 = nums1.sort((a, b) => a - b)
+    nums2 = nums2.sort((a, b) => a - b)
+    if (nums1.length > nums2.length) {
+        [nums1, nums2] = [nums2, nums1]
+    }
+
+    let [i, j, k] = [0, 0, 0]
+ 
+    while( i < nums1.length && j < nums2.length) {
+        if (nums1[i] < nums2[j]) {
+            i++
+        } else if (nums1[i] > nums2[j]) {
+            j++
+        } else {
+           nums1[k++] = nums1[i++]
+           j++;
+        }
+    }
+    return nums1.slice(0, k)
+}
+```
