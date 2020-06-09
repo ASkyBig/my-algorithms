@@ -70,7 +70,7 @@ var intersect = function(nums1, nums2) {
     return res
 }
 ```
-这里多定义了一个res数组，其实可以优化下，直接利用已经数组来存放结果：
+这里多定义了一个res数组，其实可以优化下，直接利用已经存在的数组来存放结果，不过jsperf上看没太大区别：
 ```
 var intersect = function(nums1, nums2) {
     nums1 = nums1.sort((a, b) => a - b)
@@ -92,5 +92,24 @@ var intersect = function(nums1, nums2) {
         }
     }
     return nums1.slice(0, k)
+}
+```
+
+#### 哈希表
+这种方式不需要排序，然后时间复杂度也不会很高O(m+n)，但是LeetCode上跑的不理想。。。
+```
+var intersect = function(nums1, nums2) {
+    let obj = {}
+    let res = []
+    for (const item of nums2) {
+        obj[item] = obj[item] ? ++obj[item] : 1
+    }
+    for (const item of nums1) {
+        if (obj[item] > 0) {
+            obj[item]--
+            res.push(item)
+        }
+    }
+    return res
 }
 ```
