@@ -12,6 +12,7 @@
 - [买卖股票的最佳时机](https://github.com/ASkyBig/my-algorithms/blob/master/src/dp/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)
 - [最大子序和](https://github.com/ASkyBig/my-algorithms/blob/master/src/dp/%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md)
 - [零钱兑换](https://github.com/ASkyBig/my-algorithms/blob/master/src/dp/%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md)
+- [最长连续递增序列](https://github.com/ASkyBig/my-algorithms/blob/master/src/dp/%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.md)
 
 #### 查找
 - [二分查找](https://github.com/ASkyBig/my-algorithms/blob/master/src/%E6%9F%A5%E6%89%BE/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
