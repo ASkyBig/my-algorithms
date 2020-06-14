@@ -26,3 +26,4 @@
 - [移动零](https://github.com/ASkyBig/my-algorithms/blob/master/src/%E6%95%B0%E7%BB%84/%E7%A7%BB%E5%8A%A8%E9%9B%B6.md)
 - [两个数组的交集](https://github.com/ASkyBig/my-algorithms/blob/master/src/%E6%95%B0%E7%BB%84/%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.md)
 - [II. 0～n-1 中缺失的数字.md](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
+- [删除排序数组中的重复项](https://github.com/ASkyBig/my-algorithms/blob/master/src/%E6%95%B0%E7%BB%84/%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
